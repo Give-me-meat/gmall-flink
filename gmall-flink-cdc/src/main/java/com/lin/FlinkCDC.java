@@ -45,5 +45,7 @@ public class FlinkCDC {
         //4.启动任务
         env.execute("FlinkCDC");
 
+
+        System.out.println("ceshi");
     }
 }

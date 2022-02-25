@@ -47,5 +47,7 @@ public class FlinkCDC {
 
 
         System.out.println("ceshi");
+
+        System.out.println("hahaha");
     }
 }
